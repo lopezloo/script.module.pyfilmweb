@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.pyfilmweb" name="pyfilmweb" version="0.0.1" provider-name="lopezloo">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Python package for Filmweb unofficial mobile API</summary>
+    <description></description>
+    <platform>all</platform>
+    <language></language>
+    <license>GPLv3</license>
+    <forum></forum>
+    <website>https://github.com/lopezloo/pyfilmweb</website>
+    <source>https://github.com/lopezloo/script.module.pyfilmweb</source>
+    <email></email>
+  </extension>
+</addon>
